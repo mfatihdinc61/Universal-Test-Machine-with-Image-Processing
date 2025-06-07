@@ -23,4 +23,4 @@ Unlike traditional machines, our system uses **image processing techniques** to 
 
 ## 👥 Team
 
-This project was developed by a team of six final-year Mechanical Engineering students from METU as part of their graduation requirement, image processing part of the project was designed by the owner of this Repo. Project was displayed to the jury in **February, 2022** 
+This project was developed by a team of six final-year Mechanical Engineering students from METU as part of their graduation requirement, image processing part of the project was designed by the owner of this Repo. Project was displayed to the jury in **February 2022** 

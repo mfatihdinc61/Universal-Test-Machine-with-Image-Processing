@@ -21,10 +21,6 @@ Unlike traditional machines, our system uses **image processing techniques** to 
 - ✅ Tests conducted on custom-built mechanical rig with camera-based feedback
 - ✅ Modular code and adaptable to different material testing scenarios
 
-## 📽️ Demo Videos
-
-Related test videos demonstrating the full system in action are available in the [`videos`](./videos) directory of this repository.
-
 ## 👥 Team
 
-This project was developed by a team of six final-year Mechanical Engineering students from METU as part of their graduation requirement, Image processing part of the project was designed by the owner of this Repo
+This project was developed by a team of six final-year Mechanical Engineering students from METU as part of their graduation requirement, image processing part of the project was designed by the owner of this Repo. Project was displayed to the jury in **February, 2022** 
